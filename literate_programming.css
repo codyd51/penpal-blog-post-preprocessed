@@ -1,0 +1,56 @@
+.executable_container {
+    white-space: pre-wrap;
+    /*
+    max-height: 100%;
+    max-width: 390px;
+     */
+    height: 100%;
+    overflow: scroll;
+    font-size: 10px;
+    line-height: 1.5;
+    padding: 0;
+    margin-top: -18px;
+    margin-left: 20px;
+}
+
+.executable_container::-webkit-scrollbar {
+    display: none;
+}
+
+.computer_container {
+    position: relative;
+    /*
+    text-align: center;*/
+}
+
+.computer_text_container {
+    position: absolute;
+    top: 9.5%;
+    left: 21%;
+    max-height: 37.8%;
+    height: 100%;
+    width: 41.5%;
+    color: lawngreen;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+.penpal_program_container {
+    position: absolute;
+    top: 66%;
+    left: 55.3%;
+    max-width: 6%;
+    -webkit-filter: drop-shadow(0px 0px 8px rgba(200, 250, 200, 1.0));
+}
+
+.computer_image {
+    border: none;
+    max-width: 100%;
+}
+
+.computer_text_container_pre {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
