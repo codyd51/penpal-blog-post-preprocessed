@@ -135,6 +135,12 @@ Let's `generate` an executable representing our (tiny!) source tree so far.
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Starting up</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_0">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -282,6 +288,12 @@ https://github.com/codyd51/2048-rs/blob/release/src/main.rs#L10
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Initial board</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_1">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -415,6 +427,12 @@ $!update set_up_board
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Seeing the board</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_2">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -444,6 +462,12 @@ $!update set_up_board
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Testing our cells</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_3">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -553,6 +577,12 @@ $!update set_up_board
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Spawning tiles</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_4">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -655,9 +685,15 @@ https://github.com/codyd51/2048-rs/blob/release/src/main.rs#L20-L32
 
 $!generate!$
 
+<br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Processing user input</div>
+</div>
+</div>
+
 _➤ Tip: You can scroll the PC display. The web version supports arrow keys, and doesn't require enter._
 
-<br/>
 <div class="computer_container" id="computer_container_for_snapshot_5">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -843,6 +879,12 @@ lang: rust
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Sliding tiles around</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_6">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -923,6 +965,12 @@ https://github.com/codyd51/2048-rs/blob/release/src/board.rs#L231-L235
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ Merging tiles together</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_7">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
@@ -1043,6 +1091,12 @@ https://github.com/codyd51/2048-rs/blob/release/src/board.rs#L215-L219
 $!generate!$
 
 <br/>
+<div class="computer_title_container">
+<div class="computer_title_background">
+<div class="computer_title">$ 2048!</div>
+</div>
+</div>
+
 <div class="computer_container" id="computer_container_for_snapshot_8">
     <img class="computer_image" src="computer.png" alt="Computer">
     <div class="computer_text_container">
